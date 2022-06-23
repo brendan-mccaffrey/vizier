@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/vizier/static/css/main.7d0ad940.chunk.css",
-    "main.js": "/vizier/static/js/main.1b7638f0.chunk.js",
-    "main.js.map": "/vizier/static/js/main.1b7638f0.chunk.js.map",
-    "runtime-main.js": "/vizier/static/js/runtime-main.93e6c6f9.js",
-    "runtime-main.js.map": "/vizier/static/js/runtime-main.93e6c6f9.js.map",
-    "static/js/2.22564d0c.chunk.js": "/vizier/static/js/2.22564d0c.chunk.js",
-    "static/js/2.22564d0c.chunk.js.map": "/vizier/static/js/2.22564d0c.chunk.js.map",
-    "index.html": "/vizier/index.html",
-    "precache-manifest.ed3f0a8e48235931e8f170d89d7c80c6.js": "/vizier/precache-manifest.ed3f0a8e48235931e8f170d89d7c80c6.js",
-    "service-worker.js": "/vizier/service-worker.js",
-    "static/css/main.7d0ad940.chunk.css.map": "/vizier/static/css/main.7d0ad940.chunk.css.map",
-    "static/js/2.22564d0c.chunk.js.LICENSE.txt": "/vizier/static/js/2.22564d0c.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/vizier/static/media/illustration-section-02.63d0555d.svg",
-    "static/media/feature-tile-icon-01.svg": "/vizier/static/media/feature-tile-icon-01.c6ce2705.svg",
-    "static/media/feature-tile-icon-02.svg": "/vizier/static/media/feature-tile-icon-02.bd39f304.svg",
-    "static/media/feature-tile-icon-03.svg": "/vizier/static/media/feature-tile-icon-03.66f37ba5.svg",
-    "static/media/logo.svg": "/vizier/static/media/logo.d41d8cd9.svg"
+    "main.css": "https://brendan-mccaffrey.github.io/vizier/static/css/main.35a62a26.chunk.css",
+    "main.js": "https://brendan-mccaffrey.github.io/vizier/static/js/main.173c901d.chunk.js",
+    "main.js.map": "https://brendan-mccaffrey.github.io/vizier/static/js/main.173c901d.chunk.js.map",
+    "runtime-main.js": "https://brendan-mccaffrey.github.io/vizier/static/js/runtime-main.afc029bf.js",
+    "runtime-main.js.map": "https://brendan-mccaffrey.github.io/vizier/static/js/runtime-main.afc029bf.js.map",
+    "static/js/2.22564d0c.chunk.js": "https://brendan-mccaffrey.github.io/vizier/static/js/2.22564d0c.chunk.js",
+    "static/js/2.22564d0c.chunk.js.map": "https://brendan-mccaffrey.github.io/vizier/static/js/2.22564d0c.chunk.js.map",
+    "index.html": "https://brendan-mccaffrey.github.io/vizier/index.html",
+    "precache-manifest.754a8390603100a1cd16daf86cf98793.js": "https://brendan-mccaffrey.github.io/vizier/precache-manifest.754a8390603100a1cd16daf86cf98793.js",
+    "service-worker.js": "https://brendan-mccaffrey.github.io/vizier/service-worker.js",
+    "static/css/main.35a62a26.chunk.css.map": "https://brendan-mccaffrey.github.io/vizier/static/css/main.35a62a26.chunk.css.map",
+    "static/js/2.22564d0c.chunk.js.LICENSE.txt": "https://brendan-mccaffrey.github.io/vizier/static/js/2.22564d0c.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "https://brendan-mccaffrey.github.io/vizier/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "https://brendan-mccaffrey.github.io/vizier/static/media/feature-tile-icon-01.c6ce2705.svg",
+    "static/media/feature-tile-icon-02.svg": "https://brendan-mccaffrey.github.io/vizier/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "https://brendan-mccaffrey.github.io/vizier/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/logo.svg": "https://brendan-mccaffrey.github.io/vizier/static/media/logo.d41d8cd9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.93e6c6f9.js",
+    "static/js/runtime-main.afc029bf.js",
     "static/js/2.22564d0c.chunk.js",
-    "static/css/main.7d0ad940.chunk.css",
-    "static/js/main.1b7638f0.chunk.js"
+    "static/css/main.35a62a26.chunk.css",
+    "static/js/main.173c901d.chunk.js"
   ]
 }
