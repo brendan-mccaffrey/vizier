@@ -19,7 +19,7 @@ const FooterNav = ({
         >
             <ul className="list-reset">
                 <li>
-                    <Link to="mailto:viziertechonolies@gmail.com">Contact</Link>
+                    <Link to="mailto:viziertechnologies@gmail.com">Contact</Link>
                 </li>
                 {/* <li>
           <Link to="#0">About us</Link>

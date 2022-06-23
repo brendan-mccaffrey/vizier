@@ -72,7 +72,7 @@ const Hero = ({
                                     {/* <Button tag="a" color="secondary" wideMobile href="https://cruip.com/">
                                         What we do
                                     </Button> */}
-                                    <Button tag="a" color="dark" wideMobile href="mailto:devs@gmail.com?Subject=Hello">
+                                    <Button tag="a" color="dark" wideMobile href="mailto:viziertechnologies@gmail.com?Subject=Hello">
                                         Talk to us
                                     </Button>
                                 </ButtonGroup>
