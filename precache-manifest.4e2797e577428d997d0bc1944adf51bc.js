@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef7f58d3e5e9fcd5f66581e8b92ae76a",
+    "revision": "81f92ddf48e8c50d6dd74c976299f6a8",
     "url": "https://brendan-mccaffrey.github.io/vizier/index.html"
   },
   {
-    "revision": "4d7544d7f0365dbc801e",
+    "revision": "477373d89029b0e6c9fc",
     "url": "https://brendan-mccaffrey.github.io/vizier/static/css/main.35a62a26.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://brendan-mccaffrey.github.io/vizier/static/js/2.22564d0c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d7544d7f0365dbc801e",
-    "url": "https://brendan-mccaffrey.github.io/vizier/static/js/main.173c901d.chunk.js"
+    "revision": "477373d89029b0e6c9fc",
+    "url": "https://brendan-mccaffrey.github.io/vizier/static/js/main.0592b6e4.chunk.js"
   },
   {
     "revision": "c10440ee3ebe7c87de5d",

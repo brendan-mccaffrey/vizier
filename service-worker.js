@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://brendan-mccaffrey.github.io/vizier/precache-manifest.754a8390603100a1cd16daf86cf98793.js"
+  "https://brendan-mccaffrey.github.io/vizier/precache-manifest.4e2797e577428d997d0bc1944adf51bc.js"
 );
 
 self.addEventListener('message', (event) => {
